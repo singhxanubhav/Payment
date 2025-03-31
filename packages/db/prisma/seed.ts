@@ -12,7 +12,7 @@ async function main() {
       name: 'alice',
       Balance: {
         create: {
-            amount: 20000,
+            amount: 3200,
             locked: 0
         }
       },
@@ -36,7 +36,7 @@ async function main() {
       name: 'bob',
       Balance: {
         create: {
-            amount: 2000,
+            amount: 12000,
             locked: 0
         }
       },
